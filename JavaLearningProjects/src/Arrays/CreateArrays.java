@@ -8,6 +8,13 @@ public class CreateArrays {
 		
 		int arr1[] = {10, 2, 44};
 		System.out.println(arr1[0]);
+		
+		//manual input value
+		int arr2[] = new int[3];
+		arr2[0] = 100;
+		arr2[1] = 200;
+		arr2[2] = 500;
+		System.out.println(arr2[2]);
 
 	}
 
