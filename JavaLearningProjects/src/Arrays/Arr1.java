@@ -12,3 +12,5 @@ public class Arr1 {
 	}
 
 }
+
+// for (int elem: arr) { 
