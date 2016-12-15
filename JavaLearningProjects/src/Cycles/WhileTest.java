@@ -13,3 +13,5 @@ public class WhileTest {
 	}
 
 }
+
+//have some mistakes)))
